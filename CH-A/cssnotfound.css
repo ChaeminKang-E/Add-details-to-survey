@@ -1,0 +1,15 @@
+.tecst{
+    color: rgb(60, 109, 158);
+    font-family:sans-serif;
+    font-size:larger;
+}
+.leancc{
+    color: rgb(143, 0, 179);
+    font-family:sans-serif;
+    font-size:larger;
+}
+label, .teks{
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    font-size: medium;
+}
